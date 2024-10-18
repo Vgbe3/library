@@ -1,0 +1,11 @@
+.center-container {
+  display: flex;
+  justify-content: center;   /* จัดแนวนอนให้ตรงกลาง */
+  align-items: center;       /* จัดแนวตั้งให้ตรงกลาง */
+  height: 100vh;             /* ความสูงเต็มหน้าจอ */
+}
+
+canvas {
+  border: 1px solid black;   /* ใส่เส้นขอบให้ canvas เพื่อมองเห็นชัดเจน */
+  
+}
